@@ -45,7 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
 
-## 📞 Contact
-For any issues or suggestions, feel free to reach out!
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **Email:** your-email@example.com
+
